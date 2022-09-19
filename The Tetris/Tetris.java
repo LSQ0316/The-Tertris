@@ -16,4 +16,8 @@ public class Tetris extends JFrame{
         this.setTitle("俄罗斯方块");
 
     }
+
+    public Tertris(){
+        
+    }
 }
